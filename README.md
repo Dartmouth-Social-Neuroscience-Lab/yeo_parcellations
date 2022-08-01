@@ -1,4 +1,4 @@
-# yeo_parcellations
+# Yeo Parcellations 
 These are the wholebrain Yeo Parcellations (with parcels with 5 or less voxels removed), as well as Default Network subsystems we use frequently.
 
 <br> **File Directory**:
