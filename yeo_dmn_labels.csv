@@ -1,0 +1,26 @@
+DN.other.4,Default Mode Other,R Inferior Frontal Gyrus,54.8,31.2,-0.2,right,.,17.6,78.6,35.9,roi_network14_index.04.nii.gz
+DN.other.5,Default Mode Other,L SMA,47.4,34.6,-0.6,right,.,21.3,80.3,35.7,roi_network14_index.05.nii.gz
+DN.other.6,Default Mode Other,L Middle Temporal Gyrus,-48.0,-60.6,16.0,left,.,69.0,32.7,44.0,roi_network14_index.06.nii.gz
+DN.other.7,Default Mode Other,R Superior Temporal Gyrus,-8.0,8.0,72.0,left,.,49.0,67.0,72.0,roi_network14_index.07.nii.gz
+DN.mtl.1,Default Mode MTL,left middle occipital lobule,-39.0,-80.4,32.0,left,.,64.5,22.8,52.0,roi_network15_index.01.nii.gz
+DN.mtl.2,Default Mode MTL,R Middle Occipital Gyrus,48.2,-70.8,27.2,right,.,20.9,27.6,49.6,roi_network15_index.02.nii.gz
+DN.mtl.3,Default Mode MTL,"left calcarine gyrus, left precuneus ",-12.4,-55.4,12.6,left,.,51.2,35.3,42.3,roi_network15_index.03.nii.gz
+DN.mtl.4,Default Mode MTL,"right cuneus, right precuneus",13.8,-53.2,13.8,right,.,38.1,36.4,42.9,roi_network15_index.04.nii.gz
+DN.mtl.5,Default Mode MTL,R Fusiform Gyrus,27.4,-28.0,-20.2,right,.,31.3,49.0,25.9,roi_network15_index.05.nii.gz
+DN.mtl.6,Default Mode MTL,L Fusiform Gyrus,-26.8,-33.0,-18.0,left,.,58.4,46.5,27.0,roi_network15_index.06.nii.gz
+DN.core.2,Default Mode Core,right middle temporal gyrus,61.8,-6.8,-18.2,right,.,14.1,59.6,26.9,roi_network16_index.02.nii.gz
+DN.core.3,Default Mode Core,R Superior Frontal Gyrus,23.4,#REF!,44.0,right,.,33.3,80.7,58.0,roi_network16_index.03.nii.gz
+DN.core.4,Default Mode Core,"left middle frontal gyrus, left superior frontal gyrus",-22.4,28.8,46.6,left,.,56.2,77.4,59.3,roi_network16_index.04.nii.gz
+DN.core.5,Default Mode Core,L Angular Gyrus,-44.4,-68.2,37.4,left,.,67.2,28.9,54.7,roi_network16_index.05.nii.gz
+DN.core.6,Default Mode Core,"right angular gyrus, right middle temporal gyrus",51.4,-57.4,29.6,right,.,19.3,34.3,50.8,roi_network16_index.06.nii.gz
+DN.core.7,Default Mode Core,right PCC / left PCC,-0.6,-50.8,31.0,left,.,45.3,37.6,51.5,roi_network16_index.07.nii.gz
+DN.core.8,Default Mode Core,MPFC / ACC,0.6,50.0,5.2,right,.,44.7,88.0,38.6,roi_network16_index.08.nii.gz
+DN.dMPFC.4,Default Mode dMPFC,R Inferior Frontal Gyrus,55.6,24.6,8.2,right,.,17.2,75.3,40.1,roi_network17_index.04.nii.gz
+DN.dMPFC.5,Default Mode dMPFC,R Middle Temporal Gyrus,61.8,-25.8,-6.2,right,.,14.1,50.1,32.9,roi_network17_index.05.nii.gz
+DN.dMPFC.6,Default Mode dMPFC,L Middle Frontal Gyrus,-40.4,12.6,50.4,left,.,65.2,69.3,61.2,roi_network17_index.06.nii.gz
+DN.dMPFC.7,Default Mode dMPFC,R Inferior Frontal Gyrus,43.0,29.6,-13.8,right,.,23.5,77.8,29.1,roi_network17_index.07.nii.gz
+DN.dMPFC.8,Default Mode dMPFC,left angular gyrus,-52.4,-55.6,28.6,left,.,71.2,35.2,50.3,roi_network17_index.08.nii.gz
+DN.dMPFC.9,Default Mode dMPFC,R Medial Temporal Pole,51.8,3.8,-30.2,right,.,19.1,64.9,20.9,roi_network17_index.09.nii.gz
+DN.dMPFC.10,Default Mode dMPFC,L inferior Frontal Gyrus,-46.6,26.8,-2.2,left,.,68.3,76.4,34.9,roi_network17_index.10.nii.gz
+DN.dMPFC.11,Default Mode dMPFC,L Middle Temporal Gyrus,-56.6,-12.2,-19.0,left,.,73.3,56.9,26.5,roi_network17_index.11.nii.gz
+DN.dMPFC.12,Default Mode dMPFC,Bilateral DMPFC,-2.4,45.6,41.2,left,.,46.2,85.8,56.6,roi_network17_index.12.nii.gz
