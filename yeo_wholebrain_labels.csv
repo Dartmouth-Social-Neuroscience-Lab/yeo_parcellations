@@ -1,0 +1,86 @@
+﻿Yeo17Networks,BrainMesh_ICBM152.nv,Brain Region,,,,,,,,,ROI,Number Voxels
+Visual.A.1,Visual A,V1,1.6,-84.4,-2.4,right,.,44.2,20.8,34.8,roi_network01_index.01.nii.gz,7212
+Visual.B.1,Visual B,V1,1.6,-71.4,11.6,right,.,44.2,27.3,41.8,roi_network02_index.01.nii.gz,4663
+SMA.A.2,Somatomotor A,Parietal Operculum I,42.6,-22.2,20.8,right,.,23.7,51.9,46.4,roi_network03_index.02.nii.gz,7
+SMA.A.3,Somatomotor A,Primary Motor Cortex,-1.4,-25.0,63.0,left,.,45.7,50.5,67.5,roi_network03_index.03.nii.gz,5223
+SMA.B.1,Somatomotor B,Primary Auditory Cortex,52.4,-12.0,15.4,right,.,18.8,57.0,43.7,roi_network04_index.01.nii.gz,2172
+SMA.B.2,Somatomotor B,Superior Temporal Gyrus,-51.0,-15.8,17.4,left,.,70.5,55.1,44.7,roi_network04_index.02.nii.gz,2431
+DAN.A.6,Dorsal Attention A,R Precentral Gyrus,37.2,-4.0,48.8,right,.,26.4,61.0,60.4,roi_network05_index.06.nii.gz,5
+DAN.A.7,Dorsal Attention A,"left fusiform gyrus, left inferior temporal gyrus, left middle occipital, left superior parietal lobe",-33.6,-65.8,23.0,left,.,61.8,30.1,47.5,roi_network05_index.07.nii.gz,1697
+DAN.A.8,Dorsal Attention A,"right fusiform gyrus, right inferior temporal gyrus, right middle temporal gyrus, right middle occiptial, right superior parietal lobule",36.4,-61.6,26.0,right,.,26.8,32.2,49.0,roi_network05_index.08.nii.gz,2575
+DAN.B.2,Dorsal Attention B,L Precentral Gyrus,-53.6,4.6,37.0,left,.,71.8,65.3,54.5,roi_network06_index.02.nii.gz,63
+DAN.B.3,Dorsal Attention B,L Middle Temporal Gyrus,-54.4,-62.4,7.0,left,.,72.2,31.8,39.5,roi_network06_index.03.nii.gz,68
+DAN.B.4,Dorsal Attention B,R Middle Temporal Gyrus,58.2,-58.0,2.6,right,.,15.9,34.0,37.3,roi_network06_index.04.nii.gz,76
+DAN.B.5,Dorsal Attention B,R Precentral Gyrus,55.0,8.2,31.6,right,.,17.5,67.1,51.8,roi_network06_index.05.nii.gz,84
+DAN.B.6,Dorsal Attention B,R Superior Frontal Gyrus,27.4,-4.0,57.8,right,.,31.3,61.0,64.9,roi_network06_index.06.nii.gz,360
+DAN.B.7,Dorsal Attention B,"left superior frontal gyrus, left middle frontal gyrus, left precentral gyrus ",-27.0,-5.6,56.4,left,.,58.5,60.2,64.2,roi_network06_index.07.nii.gz,508
+DAN.B.8,Dorsal Attention B,Superior Parietal Lobule/Precuneus,-1.0,-40.8,55.0,left,.,45.5,42.6,63.5,roi_network06_index.08.nii.gz,1870
+VAN.A.5,Ventral Attention A,R Precentral Gyrus,52.0,-0.6,48.6,right,.,19.0,62.7,60.3,roi_network07_index.05.nii.gz,45
+VAN.A.6,Ventral Attention A,R Middle Cingulate Cortex,12.6,-32.2,45.2,right,.,38.7,46.9,58.6,roi_network07_index.06.nii.gz,165
+VAN.A.7,Ventral Attention A,L Middle Cingulate Cortex,-12.0,-33.0,44.4,left,.,51.0,46.5,58.2,roi_network07_index.07.nii.gz,195
+VAN.A.8,Ventral Attention A,L Superior Temporal Gyrus,-58.8,-30.8,26.0,left,.,74.4,47.6,49.0,roi_network07_index.08.nii.gz,471
+VAN.A.9,Ventral Attention A,R Superior Temporal Gyrus,61.0,-27.4,26.6,right,.,14.5,49.3,49.3,roi_network07_index.09.nii.gz,519
+VAN.A.10,Ventral Attention A,L Insula,-43.0,0.8,2.0,left,.,66.5,63.4,37.0,roi_network07_index.10.nii.gz,695
+VAN.A.11,Ventral Attention A,R Insula,43.6,3.0,0.6,right,.,23.2,64.5,36.3,roi_network07_index.11.nii.gz,748
+VAN.A.12,Ventral Attention A,"right middle cingulate cortex, right SMA, left middle cingulate cortex, left SMA, right superior frontal gyrus, left superior frontal gyrus",1.0,4.4,49.2,right,.,44.5,65.2,60.6,roi_network07_index.12.nii.gz,1214
+VAN.B.3,Ventral Attention B,L Superior Frontal Gyrus,-16.4,8.0,67.8,left,.,53.2,67.0,69.9,roi_network08_index.03.nii.gz,21
+VAN.B.4,Ventral Attention B,L Middle Orbital Gyrus,-26.8,41.4,-12.2,left,.,58.4,83.7,29.9,roi_network08_index.04.nii.gz,43
+VAN.B.5,Ventral Attention B,L Supramarginal Gyrus,-61.8,-41.6,35.0,left,.,75.9,42.2,53.5,roi_network08_index.05.nii.gz,71
+VAN.B.6,Ventral Attention B,R Supramarginal Gyrus,61.8,-38.2,35.0,right,.,14.1,43.9,53.5,roi_network08_index.06.nii.gz,128
+VAN.B.7,Ventral Attention B,L Insula Lobe,-36.0,18.6,0.2,left,.,63.0,72.3,36.1,roi_network08_index.07.nii.gz,306
+VAN.B.8,Ventral Attention B,R Insula Lobe,39.4,22.4,0.2,right,.,25.3,74.2,36.1,roi_network08_index.08.nii.gz,485
+VAN.B.9,Ventral Attention B,Anterior Cingulate Cortex/SMA,2.6,23.0,37.0,right,.,43.7,74.5,54.5,roi_network08_index.09.nii.gz,787
+VAN.B.10,Ventral Attention B,R Middle Frontal Gyrus,34.6,46.2,23.6,right,.,27.7,86.1,47.8,roi_network08_index.10.nii.gz,936
+VAN.B.11,Ventral Attention B,L Middle Frontal Gyrus,-31.6,44.0,27.2,left,.,60.8,85.0,49.6,roi_network08_index.11.nii.gz,939
+Limbic.A.2,Limbic A,L Temporal Pole,-35.4,-4.0,-34.6,left,.,62.7,61.0,18.7,roi_network09_index.02.nii.gz,1787
+Limbic.A.3,Limbic A,R Temporal Pole,36.4,-2.2,-35.4,right,.,26.8,61.9,18.3,roi_network09_index.03.nii.gz,1951
+Limbic.B.2,Limbic B,Orbital Gyrus,-0.6,37.8,-18.6,left,.,45.3,81.9,26.7,roi_network10_index.02.nii.gz,2843
+FPCN.C.2,Frontoparietal Control C,Bilateral Middle Cingulate Cortex,1.8,-23.2,29.2,right,.,44.1,51.4,50.6,roi_network11_index.02.nii.gz,139
+FPCN.C.3,Frontoparietal Control C,bilateral precuneus ,1.8,-62.2,44.8,right,.,44.1,31.9,58.4,roi_network11_index.03.nii.gz,1053
+FPCN.B.2,Frontoparietal Control B,R Middle Frontal Gyrus,37.4,2.4,53.8,right,.,26.3,64.2,62.9,roi_network12_index.02.nii.gz,13
+FPCN.B.3,Frontoparietal Control B,Bilateral Middle Cingulate Cortex,-0.2,-0.2,30.6,left,.,45.1,62.9,51.3,roi_network12_index.03.nii.gz,21
+FPCN.B.4,Frontoparietal Control B,R Inferior Frontal Gyrus,26.0,35.8,-13.8,right,.,32.0,80.9,29.1,roi_network12_index.04.nii.gz,22
+FPCN.B.5,Frontoparietal Control B,R Middle Frontal Gyrus,25.6,9.2,54.6,right,.,32.2,67.6,63.3,roi_network12_index.05.nii.gz,103
+FPCN.B.6,Frontoparietal Control B,L Middle Frontal Gyrus,-24.2,7.2,57.0,left,.,57.1,66.6,64.5,roi_network12_index.06.nii.gz,114
+FPCN.B.7,Frontoparietal Control B,right inferior temporal gyrus,60.6,-47.6,-12.0,right,.,14.7,39.2,30.0,roi_network12_index.07.nii.gz,201
+FPCN.B.8,Frontoparietal Control B,L Inferior Temporal Gyrus,-56.4,-55.4,-12.6,left,.,73.2,35.3,29.7,roi_network12_index.08.nii.gz,362
+FPCN.B.9,Frontoparietal Control B,"right inferior parietal lobe, right angular gyrus",40.8,-49.6,45.0,right,.,24.6,38.2,58.5,roi_network12_index.09.nii.gz,494
+FPCN.B.10,Frontoparietal Control B,L Inferior Parietal Lobule,-37.6,-51.8,43.6,left,.,63.8,37.1,57.8,roi_network12_index.10.nii.gz,588
+FPCN.B.11,Frontoparietal Control B,R Precentral Gyrus,45.4,22.4,22.2,right,.,22.3,74.2,47.1,roi_network12_index.11.nii.gz,1009
+FPCN.B.12,Frontoparietal Control B,left inferior frontal gryus,-43.0,22.2,23.0,left,.,66.5,74.1,47.5,roi_network12_index.12.nii.gz,lef
+FPCN.A.5,Frontoparietal Control A,"left middle frontal gyrus, left superior frontal gyrus",-28.4,13.2,59.8,left,.,59.2,69.6,65.9,roi_network13_index.05.nii.gz,75
+FPCN.A.6,Frontoparietal Control A,L Middle Frontal Gyrus,-41.8,22.8,40.2,left,.,65.9,74.4,56.1,roi_network13_index.06.nii.gz,218
+FPCN.A.7,Frontoparietal Control A,L Middle Temporal Gyrus,-60.2,-39.6,-14.6,left,.,75.1,43.2,28.7,roi_network13_index.07.nii.gz,268
+FPCN.A.8,Frontoparietal Control A,"left inferior parietal lobule, ",-48.8,-53.0,49.2,left,.,69.4,36.5,60.6,roi_network13_index.08.nii.gz,282
+FPCN.A.9,Frontoparietal Control A,Bilateral Superior Medial Gyrus,2.6,34.0,42.4,right,.,43.7,80.0,57.2,roi_network13_index.09.nii.gz,296
+FPCN.A.10,Frontoparietal Control A,R Inferior Temporal Gyrus,62.8,-30.2,-16.8,right,.,13.6,47.9,27.6,roi_network13_index.10.nii.gz,384
+FPCN.A.11,Frontoparietal Control A,R Inferior Parietal Lobule,52.4,-51.0,46.2,right,.,18.8,37.5,59.1,roi_network13_index.11.nii.gz,556
+FPCN.A.12,Frontoparietal Control A,L Middle Orbital Gyrus,-33.8,55.0,-1.8,left,.,61.9,90.5,35.1,roi_network13_index.12.nii.gz,570
+FPCN.A.13,Frontoparietal Control A,R Middle Orbital Gyrus,32.4,55.2,-1.6,right,.,28.8,90.6,35.2,roi_network13_index.13.nii.gz,1074
+FPCN.A.14,Frontoparietal Control A,R Middle Frontal Gyrus,39.4,19.0,47.2,right,.,25.3,72.5,59.6,roi_network13_index.14.nii.gz,1100
+DN.other.4,Default Mode Other,R Inferior Frontal Gyrus,54.8,31.2,-0.2,right,.,17.6,78.6,35.9,roi_network14_index.04.nii.gz,9
+DN.other.5,Default Mode Other,L SMA,47.4,34.6,-0.6,right,.,21.3,80.3,35.7,roi_network14_index.05.nii.gz,26
+DN.other.6,Default Mode Other,L Middle Temporal Gyrus,-48.0,-60.6,16.0,left,.,69.0,32.7,44.0,roi_network14_index.06.nii.gz,835
+DN.other.7,Default Mode Other,R Superior Temporal Gyrus,-8.0,8.0,72.0,left,.,49.0,67.0,72.0,roi_network14_index.07.nii.gz,1121
+DN.mtl.1,Default Mode MTL,left middle occipital lobule,-39.0,-80.4,32.0,left,.,64.5,22.8,52.0,roi_network15_index.01.nii.gz,82
+DN.mtl.2,Default Mode MTL,R Middle Occipital Gyrus,48.2,-70.8,27.2,right,.,20.9,27.6,49.6,roi_network15_index.02.nii.gz,111
+DN.mtl.3,Default Mode MTL,"left calcarine gyrus, left precuneus ",-12.4,-55.4,12.6,left,.,51.2,35.3,42.3,roi_network15_index.03.nii.gz,119
+DN.mtl.4,Default Mode MTL,"right cuneus, right precuneus",13.8,-53.2,13.8,right,.,38.1,36.4,42.9,roi_network15_index.04.nii.gz,141
+DN.mtl.5,Default Mode MTL,R Fusiform Gyrus,27.4,-28.0,-20.2,right,.,31.3,49.0,25.9,roi_network15_index.05.nii.gz,189
+DN.mtl.6,Default Mode MTL,L Fusiform Gyrus,-26.8,-33.0,-18.0,left,.,58.4,46.5,27.0,roi_network15_index.06.nii.gz,271
+DN.core.2,Default Mode Core,right middle temporal gyrus,61.8,-6.8,-18.2,right,.,14.1,59.6,26.9,roi_network16_index.02.nii.gz,232
+DN.core.3,Default Mode Core,R Superior Frontal Gyrus,23.4,-48.8,44.0,right,.,33.3,80.7,58.0,roi_network16_index.03.nii.gz,352
+DN.core.4,Default Mode Core,"left middle frontal gyrus, left superior frontal gyrus",-22.4,28.8,46.6,left,.,56.2,77.4,59.3,roi_network16_index.04.nii.gz,377
+DN.core.5,Default Mode Core,L Angular Gyrus,-44.4,-68.2,37.4,left,.,67.2,28.9,54.7,roi_network16_index.05.nii.gz,570
+DN.core.6,Default Mode Core,"right angular gyrus, right middle temporal gyrus",51.4,-57.4,29.6,right,.,19.3,34.3,50.8,roi_network16_index.06.nii.gz,622
+DN.core.7,Default Mode Core,right PCC / left PCC,-0.6,-50.8,31.0,left,.,45.3,37.6,51.5,roi_network16_index.07.nii.gz,1494
+DN.core.8,Default Mode Core,MPFC / ACC,0.6,50.0,5.2,right,.,44.7,88.0,38.6,roi_network16_index.08.nii.gz,2648
+DN.dMPFC.4,Default Mode dMPFC,R Inferior Frontal Gyrus,55.6,24.6,8.2,right,.,17.2,75.3,40.1,roi_network17_index.04.nii.gz,98
+DN.dMPFC.5,Default Mode dMPFC,R Middle Temporal Gyrus,61.8,-25.8,-6.2,right,.,14.1,50.1,32.9,roi_network17_index.05.nii.gz,183
+DN.dMPFC.6,Default Mode dMPFC,L Middle Frontal Gyrus,-40.4,12.6,50.4,left,.,65.2,69.3,61.2,roi_network17_index.06.nii.gz,241
+DN.dMPFC.7,Default Mode dMPFC,R Inferior Frontal Gyrus,43.0,29.6,-13.8,right,.,23.5,77.8,29.1,roi_network17_index.07.nii.gz,282
+DN.dMPFC.8,Default Mode dMPFC,left angular gyrus,-52.4,-55.6,28.6,left,.,71.2,35.2,50.3,roi_network17_index.08.nii.gz,423
+DN.dMPFC.9,Default Mode dMPFC,R Medial Temporal Pole,51.8,3.8,-30.2,right,.,19.1,64.9,20.9,roi_network17_index.09.nii.gz,424
+DN.dMPFC.10,Default Mode dMPFC,L inferior Frontal Gyrus,-46.6,26.8,-2.2,left,.,68.3,76.4,34.9,roi_network17_index.10.nii.gz,1201
+DN.dMPFC.11,Default Mode dMPFC,L Middle Temporal Gyrus,-56.6,-12.2,-19.0,left,.,73.3,56.9,26.5,roi_network17_index.11.nii.gz,1667
+DN.dMPFC.12,Default Mode dMPFC,Bilateral DMPFC,-2.4,45.6,41.2,left,.,46.2,85.8,56.6,roi_network17_index.12.nii.gz,1783
